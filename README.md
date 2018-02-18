@@ -1,3 +1,3 @@
 # hello-world
 Starter Pack
-/ntry to make some commit changes
+\n try to make some commit changes
